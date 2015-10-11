@@ -1,0 +1,81 @@
+klish (2.0.3-1+0~mr4.1.0.0) unstable; urgency=low
+
+  [ Victor Seva ]
+  * [1a93aa1] MT#12319 debian: fix build
+
+  [ Sipwise Jenkins Builder ]
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Mon, 13 Jul 2015 15:14:48 +0200
+
+klish (2.0.3-1+0~mr4.0.0.0) unstable; urgency=medium
+
+  [ Victor Seva ]
+  * [55939db] Imported Upstream version 2.0.3
+  * [86ed6ae] MT#12319 debian: add watch file
+
+  [ Alexander Lutay ]
+  * [fd4b643] MT#7505 Add .gitreview file for klish
+  * [6b2d99f] MT#7505 ignore .gitreview file
+
+ -- Victor Seva <vseva@sipwise.com>  Wed, 25 Mar 2015 19:33:14 +0100
+
+klish (1.6.6+20130925+git6186ff-1+0~mr4.0.0.0) unstable; urgency=low
+
+  [ Michael Prokop ]
+  * [d109c1e] MT#9127 Bump Standards-Version to 3.9.6
+
+  [ Sipwise Jenkins Builder ]
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Wed, 18 Mar 2015 14:02:19 +0100
+
+klish (1.6.6+20130925+git6186ff-1+0~mr3.8.0.0) unstable; urgency=low
+
+  * New release.
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Wed, 07 Jan 2015 21:26:51 +0100
+
+klish (1.6.6+20130925+git6186ff-1+0~mr3.7.0.0) unstable; urgency=low
+
+  * New release.
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Thu, 30 Oct 2014 17:20:15 +0100
+
+klish (1.6.6+20130925+git6186ff-1+0~mr3.6.0.0) unstable; urgency=low
+
+  * New release.
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Thu, 09 Oct 2014 16:31:41 +0200
+
+klish (1.6.6+20130925+git6186ff-1+0~mr3.5.0.0) unstable; urgency=low
+
+  * New release.
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Thu, 10 Jul 2014 15:25:26 +0200
+
+klish (1.6.6+20130925+git6186ff-1+0~mr3.4.0.0) unstable; urgency=low
+
+  [ Michael Prokop ]
+  * [47ed50b] MT#6511 Bump Standards-Version to 3.9.5
+
+  [ Sipwise Jenkins Builder ]
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Mon, 26 May 2014 15:44:56 +0200
+
+klish (1.6.6+20130925+git6186ff-1+0~mr3.3) unstable; urgency=low
+
+  * New release.
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Sat, 01 Feb 2014 19:45:28 +0100
+
+klish (1.6.6+20130925+git6186ff-1) unstable; urgency=low
+
+  * New upstream version.
+  * Cleaning packaging rules.
+
+ -- Victor Seva <vseva@sipwise.com>  Mon, 23 Sep 2013 22:06:45 +0200
+
+klish (1.6.2) unstable; urgency=low
+
+  * New upstream
+
+ -- Nixus Networks <debian@nixus.es>  Thu, 9 Dec 2012 17:04:00 +0200

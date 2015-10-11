@@ -1,0 +1,3 @@
+usr/include/*
+usr/lib/clish/lib*.a
+usr/lib/clish/lib*.so
